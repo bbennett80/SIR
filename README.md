@@ -1,2 +1,2 @@
 # SIR
-simple SIR model implemented with streamlit
+Simple SIR model as described by Jeremy Howard, implemented with streamlit.
